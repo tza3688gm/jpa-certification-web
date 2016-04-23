@@ -4,7 +4,7 @@
          basedir=".">
 
 <property name="projeto" value="${ant.project.name}" />
-<property name="bkp-dir" value="/servidor-bkp/fontes/" />
+<property name="bkp-dir" value="/desen/jenkins/tests/minhas-moedas" />
 <property name="diretorio-para-zipar" value="src" />
 
 <target name="clean">
